@@ -1,0 +1,8 @@
+{
+    "save_dir": "D:/Video",
+    "cookie_source": "firefox",
+    "no_playlist": true,
+    "embed_subs": false,
+    "ffmpeg_path": "C:\\Users\\banhm\\AppData\\Local\\ffmpegio\\ffmpeg-downloader\\ffmpeg\\bin",
+    "deno_path": "C:\\Users\\banhm\\AppData\\Local\\Microsoft\\WinGet\\Packages\\DenoLand.Deno_Microsoft.Winget.Source_8wekyb3d8bbwe"
+}

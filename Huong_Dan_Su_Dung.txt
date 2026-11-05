@@ -1,0 +1,21 @@
+# HƯỚNG DẪN SỬ DỤNG YT-DLP STUDIO GUI
+
+Thư mục dự án: D:\yt-dlp-gui
+Đường tắt Desktop: yt-dlp Studio.lnk
+
+## 1. Cách mở ứng dụng
+- Cách 1: Bấm đúp vào biểu tượng "yt-dlp Studio" ngoài màn hình Desktop.
+- Cách 2: Bấm đúp vào file "Chay_App.bat" trong thư mục D:\yt-dlp-gui.
+
+## 2. Các tính năng & Tối ưu theo file D:\Lenh_yt-dlp_thong_dung_Windows.txt:
+- 🎬 TẢI FULL HD (1080p MP4): Tự động lọc độ phân giải tối đa 1080p, ghép video + audio thành MP4 tương thích cao nhất.
+- 🌟 Tải Chất Lượng Tối Đa: Tải độ phân giải cao nhất kênh cung cấp (2K, 4K, 8K) và ghép MP4.
+- ⚡ Tải Tiết Kiệm (720p MP4): Thích hợp khi mạng chậm hoặc cần file nhẹ.
+- 🎵 Tải Nhạc MP3: Trích xuất MP3 chất lượng cao nhất (VBR 0 / 320k) có nhúng sẵn ảnh bìa và metadata bài hát.
+- 📁 Tải Cả Playlist: Tải toàn bộ playlist về thư mục riêng, tự động đánh số thứ tự (001, 002...) và ghi nhật ký chống tải lại những video đã có.
+- 🔍 Liệt kê định dạng (-F): Tra cứu các ID video/âm thanh và độ phân giải mà không tải.
+- ✂️ Cắt một đoạn: Nhập thời gian bắt đầu và kết thúc (vd: 00:01:00 đến 00:02:30).
+- 📝 Nhúng phụ đề: Hỗ trợ tự động tải Vietsub / Engsub nhúng thẳng vào video.
+- 🌐 Tùy chọn Cookie Edge: Tự động dùng phiên đăng nhập của Edge để tải video bị giới hạn tuổi hoặc riêng tư.
+  *Lưu ý: Nếu Edge đang mở và khóa file, ứng dụng sẽ có thông báo nhắc nhở bạn đóng Edge hoặc bỏ tích tùy chọn này.*
+- 🔄 Cập nhật yt-dlp: Nút 1 chạm để cập nhật yt-dlp lên bản mới nhất.
